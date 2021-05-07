@@ -1,0 +1,16 @@
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\bin\Debug\net5.0\Pilas(Stack).exe
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\bin\Debug\net5.0\Pilas(Stack).deps.json
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\bin\Debug\net5.0\Pilas(Stack).runtimeconfig.json
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\bin\Debug\net5.0\Pilas(Stack).runtimeconfig.dev.json
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\bin\Debug\net5.0\Pilas(Stack).dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\bin\Debug\net5.0\ref\Pilas(Stack).dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\bin\Debug\net5.0\Pilas(Stack).pdb
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\obj\Debug\net5.0\Pilas(Stack).csprojAssemblyReference.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\obj\Debug\net5.0\Pilas(Stack).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\obj\Debug\net5.0\Pilas(Stack).AssemblyInfoInputs.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\obj\Debug\net5.0\Pilas(Stack).AssemblyInfo.cs
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\obj\Debug\net5.0\Pilas(Stack).csproj.CoreCompileInputs.cache
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\obj\Debug\net5.0\Pilas(Stack).dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\obj\Debug\net5.0\ref\Pilas(Stack).dll
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\obj\Debug\net5.0\Pilas(Stack).pdb
+C:\Users\villa\Desktop\5to_Semestre\Programación_III\clases\Pilas(Stack)\obj\Debug\net5.0\Pilas(Stack).genruntimeconfig.cache
